@@ -1,0 +1,90 @@
+<style type="text/css">
+
+.body {
+  background: white;
+}
+
+.header {
+  padding: 60px;
+  text-align: center;
+  background: #223300;
+  color: #CCCCCC;
+  font-size: 30px;
+}
+
+h3 {
+  color: #332200;
+}
+
+#a1 {
+  background: #332200;
+}
+
+#a2 {
+  background: #805500;
+}
+
+#a3 {
+  background: #335E66;
+}
+
+#a4 {
+  background: #CCCCCC;
+}
+
+#b1 {
+  background: #CC8800;
+}
+
+#b2 {
+  background: #17444D;
+}
+
+#b3 {
+  background: #59A4B3;
+}
+
+#b4 {
+  background: #335E66;
+}
+
+#c1 {
+  background: #006600;
+}
+
+#c2 {
+  background: #00B300;
+}
+
+#c3 {
+  background: #446600;
+}
+
+#c4 {
+  background: #77B300;
+}
+
+#d1 {
+  background: #B37700;
+}
+
+#d2 {
+  background: #77B300;
+}
+
+#d3 {
+  background: #664400;
+}
+
+#d4 {
+  background: #AAFF00;
+}
+
+.footer {
+  padding: 60px;
+  text-align: center;
+  background: #223300;
+  color: #CCCCCC;
+  font-size: 30px;
+}
+</style>
